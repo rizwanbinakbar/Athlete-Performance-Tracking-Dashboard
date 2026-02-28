@@ -23,7 +23,7 @@ The goal was simple:
 
 * The coach needed a structured and professional way to present results.
 
-![Dashboard1.png](docs/Dashboard1.png)
+![Dashboard2.png](docs/Dashboard2.png)
 
 ### The Solution
 
@@ -55,7 +55,7 @@ The goal was simple:
 
 * Worked closely with the coach to refine KPIs and improve calculations.
 
-![Dashboard2.png](docs/Dashboard2.png)
+![Dashboard1.png](docs/Dashboard1.png)
 
 ## Results
 
