@@ -1,14 +1,15 @@
 # Athlete-Performance-Tracking-Dashboard
 Built a Power BI dashboard for a fitness coach tracking 45 athletes, calculating 1RM progress, mobility scores, and training phase comparisons. Automated monthly reporting, saved 8 hours/week, and contributed to a 20% increase in client retention.
 
-##Overview
+## Overview
 
 A fitness coach working with **45 athletes** had no structured way to show measurable progress. Performance data was being recorded, but there was no clear reporting system to present results to clients.
 
 The goal was simple:
-_Create a professional, easy-to-use dashboard that tracks athlete performance and helps the coach clearly demonstrate improvement._
 
-###The Problem
+**_Create a professional, easy-to-use dashboard that tracks athlete performance and helps the coach clearly demonstrate improvement._**
+
+### The Problem
 
 * No formal reporting system.
 
@@ -22,7 +23,9 @@ _Create a professional, easy-to-use dashboard that tracks athlete performance an
 
 * The coach needed a structured and professional way to present results.
 
-###The Solution
+![Dashboard1.png](docs/Dashboard1.png)
+
+### The Solution
 
 **I built a Power BI dashboard that tracks key performance metrics and generates monthly branded athlete reports.**
 
@@ -40,7 +43,7 @@ _Create a professional, easy-to-use dashboard that tracks athlete performance an
 
 * The dashboard is fully branded, enabling the coach to share professional reports directly with athletes.
 
-###What I Did
+### What I Did
 
 * Designed the dashboard layout for clarity and easy interpretation.
 
@@ -52,24 +55,20 @@ _Create a professional, easy-to-use dashboard that tracks athlete performance an
 
 * Worked closely with the coach to refine KPIs and improve calculations.
 
-##Results
+![Dashboard2.png](docs/Dashboard2.png)
 
-Eliminated manual reporting (~8 hours saved per week).
+## Results
 
-Increased client retention by an estimated 20% in the first month.
+* Eliminated manual reporting (_~8 hours_ saved per week).
 
-Helped the coach justify premium packages by clearly showing measurable progress.
+* Increased client retention by an estimated **20%** in the first month.
 
-Improved client engagement through structured monthly performance reports.
+* Helped the coach justify **premium packages** by clearly showing measurable progress.
 
-Challenges
+* Improved client engagement through structured monthly performance reports.
 
-The most challenging parts were:
 
-Designing a layout that was both professional and easy for non-technical clients to understand.
+### **Want to Work wit me?**
 
-Building accurate DAX calculations for 1RM progression and training phase comparison.
-
-Ensuring performance metrics were meaningful, not just visual.
-
-Through iteration and collaboration with the coach, the dashboard evolved into a practical reporting system rather than just a visual tool.
+Just email me at: 
+## rizwanfordata@gmail.com
