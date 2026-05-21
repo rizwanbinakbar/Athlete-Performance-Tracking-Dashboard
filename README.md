@@ -3,7 +3,7 @@ Built a Power BI dashboard for a fitness coach tracking 45 athletes, calculating
 
 ## Overview
 
-A fitness coach working with **45 athletes** had no structured way to show measurable progress. Performance data was being recorded, but there was no clear reporting system to present results to clients.
+A fitness coach working with **65+ athletes** had no structured way to show measurable progress. Performance data was being recorded, but there was no clear reporting system to present results to clients.
 
 The goal was simple:
 
